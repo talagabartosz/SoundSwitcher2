@@ -22,6 +22,7 @@ public class MainActivity extends ActionBarActivity {
 		OnStatOn();
 		OnStatVib();
 		OnStatOff();
+		System.out.println("Hello");
 
 	}
 
